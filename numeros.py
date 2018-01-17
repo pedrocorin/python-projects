@@ -1,0 +1,6 @@
+n1 = int(input('Informe o primeiro número: '))
+n2 = int(input('Informe o segundo número: '))
+n3 = int(input('Informe o terceiro número: '))
+print('O produto do dobro do primeiro com metade do segundo é: {}'.format((n1*2)*(n2/2)))
+print('A soma do triplo do primeiro com o terceiro é: {}'.format((n1*3)+n3))
+print('O terceiro elevado ao cubo é: {}'.format(n3**3))
